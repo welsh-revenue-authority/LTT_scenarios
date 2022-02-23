@@ -1,3 +1,5 @@
+Feature: test
+
 GIVEN I'm buying a property at 1 Lowstreet Newtown (UPRN 54321)
 WHEN
   it’s a residential property for me and my husband
