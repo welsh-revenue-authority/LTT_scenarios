@@ -1,1 +1,1 @@
-These area set of hypothetical scenarios for localised versions of Land Transaction Tax.
+These area set of hypothetical scenarios for localised versions of Land Transaction Tax. These do not represent the policy, they are a way of use verifying that we are designing the data platform in as flexible was as possible.
