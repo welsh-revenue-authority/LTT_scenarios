@@ -1,0 +1,9 @@
+GIVEN I'm buying a property at 1 Pontypandy.
+And it is a single dwelling that is freehold.
+And I do have an interest in another property in England which is a main residence.
+And I will keep the main residence after the effective date.
+And I intend to use the new property as a second home.
+And the purchase price of the property is £200,000.
+When LTT Tax is Calculated.
+Then Tax North Zone and South Zone should be apportioned using the respective second home schedules for each Zone.
+And the LTT tax due should be £x
