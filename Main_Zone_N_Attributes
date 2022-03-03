@@ -1,0 +1,9 @@
+GIVEN I'm buying a property at 199, Mountain Road, Upper Leadworth
+And it is a single dwelling that is freehold.
+And I do not have an interest in another property.
+And the purchase price of the property is £200,000.
+And the property has attribute A = 2
+And the property has attribute B = 3
+When LTT Tax is Calculated.
+Then Tax North Zone should be applied using the main rate home schedule with modifier for attribute A and B.
+And the LTT tax due should be £x
