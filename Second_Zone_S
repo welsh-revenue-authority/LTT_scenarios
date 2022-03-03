@@ -1,0 +1,9 @@
+GIVEN I'm buying a property at 31, Castle Bank, Cwmderi
+And it is a single dwelling that is freehold.
+And I do have an interest in another property in Scotland which is a main residence.
+And I will keep the main residence after the effective date.
+And I intend to use the new property as a second home.
+And the purchase price of the property is £200,000.
+When LTT Tax is Calculated.
+Then Tax South Zone should be applied using the second home schedule.
+And the LTT tax due should be £x
